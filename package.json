@@ -4,15 +4,21 @@
   "description": "Spring 24 CIS 486 MIKE LAB",
   "main": "index.js",
   "scripts": {
-    
     "test": "echo \"Error: no test specified\" && exit 1",
     "nodeom": "your-command-here"
-    
   },
-  "author": "",
+  "author": "ayman",
   "license": "ISC",
   "dependencies": {
     "nodeom": "^0.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalluhaybi1/solid-octo-carnival.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aalluhaybi1/solid-octo-carnival/issues"
+  },
+  "homepage": "https://github.com/aalluhaybi1/solid-octo-carnival#readme"
 }
